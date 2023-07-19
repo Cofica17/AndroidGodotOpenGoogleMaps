@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.googlemapsopener">
+
+    <application>
+        <meta-data
+            android:name="org.godotengine.plugin.v1.GoogleMapsOpener"
+            android:value="com.example.googlemapsopener.GoogleMapsOpener"></meta-data>
+    </application>
+
+    <queries>
+        <package android:name="com.google.android.apps.maps"></package>
+    </queries>
+
+</manifest>
