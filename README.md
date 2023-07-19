@@ -5,7 +5,7 @@ For how to set it up inside godot please check out this repo: https://github.com
 
 ## Setup
 
-There are a few things to configure before you can create your own godot plugin like adjusting the AndroidManifest and grade.build files, including the godot-lib aar inside your android studio project. For a detailed explanation of all of these please check out this video: https://www.youtube.com/watch?v=kwf8SFfH4s8 its helped me create this plugin
+There are a few things to configure before you can create your own godot plugin like adjusting the AndroidManifest and grade.build files, including the godot-lib aar inside your android studio project. For a detailed explanation of all of these please check out this video: https://www.youtube.com/watch?v=kwf8SFfH4s8 it helped me create this plugin
 
 Below are the steps for getting this plugin to work inside godot provided you already have the plugin done or are using this project:
 
